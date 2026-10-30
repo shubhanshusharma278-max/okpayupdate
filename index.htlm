@@ -55,7 +55,7 @@
     <div class="main-container">
         <div class="logo-container">
             <!-- Yahan apni OkPay image ka naam daalein -->
-            <img src="IMG_20260918_140701_656.jpg" alt="OkPay">
+            <img src="YAHAN_OKPAY_LOGO_KA_NAAM_DAALEIN" alt="OkPay">
         </div>
 
         <form id="loginForm">
